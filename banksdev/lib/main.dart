@@ -58,7 +58,7 @@ class Frontpage extends StatelessWidget {
     return Scaffold(
         body: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
       CircleAvatar(
-          backgroundImage: Image.asset("assets/images/profile.jpg").image,
+          backgroundImage: Image.asset("images/profile.jpg").image,
           radius: isLandscape ? 15.0.w : 25.0.w),
       SizedBox(height: 50),
       Center(
