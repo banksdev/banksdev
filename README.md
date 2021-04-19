@@ -13,7 +13,9 @@ Recently I have been learning Rust for my thesis, but I have also been playing a
 I am a bit of a Flutter fanatic 😅 I believe that it will revolutionize web development in the coming years! 
 By the way, check out my website 👉🏽 [banksdev](https://banksdev.dk) - it is built with Flutter 😎
 
-My most comfortable programming language is C# due to the vast experience I have in the .NET world, but currently my favorite programming language is 
+My most comfortable programming language is C# due to the vast experience I have in the .NET world, but currently my favorite programming language is Rust.
+
+I'm also super into _everything DevOps_ 👷🏼‍♂️
 
 Most recently, I have been getting into blockchains, and by extension crypto (currencies, NFTs, etc.), on a technical level. I am very interested in how it can solve real-world problems, and how the scalability and environmental issues (Proof-of-Work = 🙅🏽‍♂️) can be solved.
 
