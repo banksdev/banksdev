@@ -6,7 +6,7 @@
 * Co-Founder & Lead Developer @ Apexi
 
 ### What do I do? 🤔
-I am currently working as a consultant for Netlight, solving our customer's problem with my owner coding prowess 😎
+I am currently working as a consultant for Netlight, solving our customer's problem with my awesome coding prowess 😎
 
 ### What am I passionate about? 🚀
 I am a bit of a Flutter fanatic 😅 I believe (and hope) that it will change up the web development environemnt in the coming years!
